@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Code Test is a group of hand tailored modules designed Magento 2 CMS "The best e-commerce CMS all over the globe", that could be developed easily in simple level.
+Code Test is a group of hand tailored modules designed for Magento 2 CMS "The best e-commerce CMS all over the globe", that could be developed easily in a simple level.
 
   - [Requirements][RL1]
   - [Installation][IL1]
@@ -38,21 +38,21 @@ Log in as a customer to find a new background color (orange) has been added to t
 Navigate to any product details page to find new buttons have been added around the qauntity input that are useful for spicifying the amount or number of items a customer needs to purchase prior to submitting by hitting the "Add To Cart" Button. 
 
 Finally use the terminal on your server root directory to test the third module by typing the next commands:
-```sh
+    ```sh
     $ php bin/magento greeting
     $ php bin/magento check-active
-```
+    ```
 or type the next command to get an idea about what those commands can do for you!
-```sh
+    ```sh
     $ php bin/magento list
-```
+    ```
 
 ### Troubleshooting
 Site loading very slow?
-```sh
+    ```sh
     $ php bin/magento setup:di:compile
     $ php bin/magento cache:flush
-```
+    ```
 
 ### License
 
@@ -61,8 +61,8 @@ This is free software distributed under the terms of the MIT license.
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [RL1]: <https://github.com/ahmadSaeedGoda/simple-blog#Requirements>
-   [IL1]: <https://github.com/ahmadSaeedGoda/simple-blog#Installation>
-   [TL1]: <https://github.com/ahmadSaeedGoda/simple-blog#Troubleshooting>
-   [LL1]: <https://github.com/ahmadSaeedGoda/simple-blog#License>
-   [LMDL1]: <https://github.com/ahmadSaeedGoda/simple-blog/blob/master/LICENSE.md>
+   [RL1]: <https://github.com/ahmedgodabytology/PinPoint-2#Requirements>
+   [IL1]: <https://github.com/ahmedgodabytology/PinPoint-2#Installation>
+   [TL1]: <https://github.com/ahmedgodabytology/PinPoint-2#Troubleshooting>
+   [LL1]: <https://github.com/ahmedgodabytology/PinPoint-2#License>
+   [LMDL1]: <https://github.com/ahmedgodabytology/PinPoint-2/blob/master/LICENSE.md>
