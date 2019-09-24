@@ -1,4 +1,4 @@
-# Magento 2 Customer Testimonials Custom Module
+# Magento 2 Code Test
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
