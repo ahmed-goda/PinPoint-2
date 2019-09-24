@@ -48,7 +48,6 @@ or type the next command to get an idea about what those commands can do for you
 ```
 
 ### Troubleshooting
-Site loading very slow?
 ```sh
     $ php bin/magento setup:di:compile
     $ php bin/magento cache:flush
