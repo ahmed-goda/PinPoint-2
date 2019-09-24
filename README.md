@@ -38,21 +38,21 @@ Log in as a customer to find a new background color (orange) has been added to t
 Navigate to any product details page to find new buttons have been added around the qauntity input that are useful for spicifying the amount or number of items a customer needs to purchase prior to submitting by hitting the "Add To Cart" Button. 
 
 Finally use the terminal on your server root directory to test the third module by typing the next commands:
-    ```sh
+```sh
     $ php bin/magento greeting
     $ php bin/magento check-active
-    ```
+```
 or type the next command to get an idea about what those commands can do for you!
-    ```sh
+```sh
     $ php bin/magento list
-    ```
+```
 
 ### Troubleshooting
 Site loading very slow?
-    ```sh
+```sh
     $ php bin/magento setup:di:compile
     $ php bin/magento cache:flush
-    ```
+```
 
 ### License
 
